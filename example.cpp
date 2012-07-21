@@ -1,7 +1,7 @@
 #include <iostream>
-#include "include/sfacth.h"
+#include "include/sfath.h"
 
-using namespace sfacth;
+using namespace sfath;
 
 struct Base {
 	virtual void print()=0;
